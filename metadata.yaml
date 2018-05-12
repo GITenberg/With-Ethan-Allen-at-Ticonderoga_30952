@@ -1,0 +1,34 @@
+_repo: With-Ethan-Allen-at-Ticonderoga_30952
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Carter, F. A. (Freeland A.)
+    alias: Carter, Freeland A.
+    gutenberg_agent_id: '31898'
+    url: http://www.gutenberg.org/2009/agents/31898
+covers:
+- cover_type: archival
+  image_path: 30952-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Foster, W. Bert (Walter Bertram)
+    alias: Foster, Walter Bertram
+    birthdate: 1869
+    gutenberg_agent_id: '25984'
+    url: http://www.gutenberg.org/2009/agents/25984
+description: ''
+gutenberg_issued: '2010-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30952'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Historical fiction'
+- !lcsh 'Fort Ticonderoga (N.Y.) -- Capture, 1777 -- Juvenile fiction'
+- !lcsh 'Allen, Ethan, 1738-1789 -- Juvenile fiction'
+title: With Ethan Allen at Ticonderoga
+url: http://www.gutenberg.org/ebooks/30952
