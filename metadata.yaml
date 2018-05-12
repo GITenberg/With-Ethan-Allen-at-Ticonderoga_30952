@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '25984'
     url: http://www.gutenberg.org/2009/agents/25984
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30952#With-Ethan-Allen-at-Ticonderoga
 gutenberg_issued: '2010-01-13'
 gutenberg_type: Text
 identifiers:
